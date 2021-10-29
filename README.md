@@ -1,7 +1,7 @@
 *  [What is multiply](https://github.com/LegameMc/EnchantGui-Wiki/wiki#what-is-multiply)
 *  [How to import other plugin's enchantments](https://github.com/LegameMc/EnchantGui-Wiki/wiki#how-to-import-other-plugins-enchantments)
 *  [Commands/Permissions](https://github.com/LegameMc/EnchantGui-Wiki/wiki#commandspermissions)
-* [Event](https://github.com/LegameMc/EnchantGui-Wiki/wiki#event)
+* [API](https://github.com/LegameMc/EnchantGui-Wiki/wiki/Getting-started-with-API)
 
 ### What is EnchantGui?
 
