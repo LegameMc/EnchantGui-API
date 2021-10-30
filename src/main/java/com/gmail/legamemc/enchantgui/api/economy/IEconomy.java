@@ -1,10 +1,17 @@
 package com.gmail.legamemc.enchantgui.api.economy;
 
-import java.util.UUID;
+import org.bukkit.entity.Player;
+import org.bukkit.plugin.Plugin;
 
 public interface IEconomy {
 
-    double getBalance(UUID playerUUID);
+    Plugin getPlugin();
 
-    void withdraw(UUID playerUUID, double amount);
+    String getIdentity();
+
+    String getName();
+
+    double getBalance(Player player);
+
+    void withdraw(Player player, double amount);
 }

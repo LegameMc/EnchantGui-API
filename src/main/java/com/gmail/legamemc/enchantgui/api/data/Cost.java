@@ -9,4 +9,6 @@ public interface Cost {
     int getExp();
 
     int getLapis();
+
+    double getCustomEconomy(String identity);
 }
