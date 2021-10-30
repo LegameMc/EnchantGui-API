@@ -1,5 +1,5 @@
 ## Maven
-
+[![](https://jitpack.io/v/LegameMc/EnchantGui-API.svg)](https://jitpack.io/#LegameMc/EnchantGui-API)
 ```xml
 	<repositories>
 		<repository>
