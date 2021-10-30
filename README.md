@@ -1,22 +1,19 @@
-*  [What is multiply](https://github.com/LegameMc/EnchantGui-Wiki/wiki#what-is-multiply)
-*  [How to import other plugin's enchantments](https://github.com/LegameMc/EnchantGui-Wiki/wiki#how-to-import-other-plugins-enchantments)
-*  [Commands/Permissions](https://github.com/LegameMc/EnchantGui-Wiki/wiki#commandspermissions)
-* [API](https://github.com/LegameMc/EnchantGui-Wiki/wiki/Getting-started-with-API)
+## Maven
 
-### What is EnchantGui?
+```xml
+	<repositories>
+		<repository>
+		    <id>jitpack.io</id>
+		    <url>https://jitpack.io</url>
+		</repository>
+	</repositories>
 
-EnchantGui is a plugin that allow players to use money, level and lapis to enchant their item.
+	<dependency>
+	    <groupId>com.github.LegameMc</groupId>
+	    <artifactId>EnchantGui-API</artifactId>
+	    <version>VERSION</version>
+	</dependency>
+```
 
-Softdepend:
-- Vault
-
-Supported Version:
-- [x] 1.8.x
-- [x] 1.9.x
-- [x] 1.10.x
-- [x] 1.11.x
-- [x] 1.12.x
-- [x] 1.13.x
-- [x] 1.14.x
-- [x] 1.15.x
-- [x] 1.16.x
+## Wiki
+[here](https://github.com/LegameMc/EnchantGui-API/wiki)
