@@ -34,22 +34,42 @@ public  class PlayerEnchantItemEvent extends Event {
         return HANDLERS;
     }
 
+    /**
+     * Get the player who enchant the item
+     * @return The player
+     */
     public Player getPlayer() {
         return player;
     }
 
+    /**
+     * Get the item player enchanted
+     * @return The item player enchanted
+     */
     public ItemStack getItem() {
         return item;
     }
 
+    /**
+     * Get the enchantment that player enchanted into the item
+     * @return The enchantment
+     */
     public Enchantment getEnchantment() {
         return enchantment;
     }
 
+    /**
+     * Get the level of the enchantment
+     * @return The level of the enchantment
+     */
     public int getLevel() {
         return level;
     }
 
+    /**
+     * Get the cost of enchanting the item
+     * @return The cost of enchanting
+     */
     public Cost getCost() {
         return cost;
     }
