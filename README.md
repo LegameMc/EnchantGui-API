@@ -15,5 +15,10 @@
 	</dependency>
 ```
 
-## Wiki
-[here](https://github.com/LegameMc/EnchantGui-API/wiki)
+## Documentation
+
+About EnchantGui: [Wiki](https://github.com/LegameMc/EnchantGui-API/wiki)
+
+For Developer: 
+- [API](https://github.com/LegameMc/EnchantGui-API/wiki/Getting-started-with-API)
+- [JavaDocs](https://legamemc.github.io/EnchantGui-API/)
